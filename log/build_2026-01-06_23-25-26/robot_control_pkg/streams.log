@@ -1,0 +1,19 @@
+[0.389s] Invoking command in '/home/jiseong/ros2project/build/robot_control_pkg': PYTHONPATH=/home/jiseong/ros2project/build/robot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jiseong/ros2project/install/robot_control_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jiseong/ros2project/build/robot_control_pkg/build --no-deps symlink_data
+[0.546s] running develop
+[0.657s] running egg_info
+[0.657s] writing robot_control_pkg.egg-info/PKG-INFO
+[0.657s] writing dependency_links to robot_control_pkg.egg-info/dependency_links.txt
+[0.657s] writing entry points to robot_control_pkg.egg-info/entry_points.txt
+[0.657s] writing requirements to robot_control_pkg.egg-info/requires.txt
+[0.657s] writing top-level names to robot_control_pkg.egg-info/top_level.txt
+[0.658s] reading manifest file 'robot_control_pkg.egg-info/SOURCES.txt'
+[0.659s] writing manifest file 'robot_control_pkg.egg-info/SOURCES.txt'
+[0.660s] running build_ext
+[0.660s] Creating /home/jiseong/ros2project/install/robot_control_pkg/lib/python3.10/site-packages/robot-control-pkg.egg-link (link to .)
+[0.661s] Installing llm_service_node script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+[0.661s] Installing movement_action_server script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+[0.661s] Installing teleop_node script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+[0.661s] 
+[0.661s] Installed /home/jiseong/ros2project/build/robot_control_pkg
+[0.661s] running symlink_data
+[0.678s] Invoked command in '/home/jiseong/ros2project/build/robot_control_pkg' returned '0': PYTHONPATH=/home/jiseong/ros2project/build/robot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jiseong/ros2project/install/robot_control_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jiseong/ros2project/build/robot_control_pkg/build --no-deps symlink_data

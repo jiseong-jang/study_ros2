@@ -1,0 +1,2 @@
+Invoking command in '/home/jiseong/ros2project/build/robot_control_interfaces': /usr/bin/cmake /home/jiseong/ros2project/src/robot_control_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jiseong/ros2project/install/robot_control_interfaces
+Invoked command in '/home/jiseong/ros2project/build/robot_control_interfaces' returned '1': /usr/bin/cmake /home/jiseong/ros2project/src/robot_control_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jiseong/ros2project/install/robot_control_interfaces

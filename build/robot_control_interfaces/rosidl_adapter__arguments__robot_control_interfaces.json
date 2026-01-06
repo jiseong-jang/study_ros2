@@ -1,0 +1,7 @@
+{
+  "package_name": "robot_control_interfaces",
+  "non_idl_tuples": [
+    "/home/jiseong/ros2project/src/robot_control_interfaces:srv/LLMCommand.srv",
+    "/home/jiseong/ros2project/src/robot_control_interfaces:action/Move.action"
+  ]
+}

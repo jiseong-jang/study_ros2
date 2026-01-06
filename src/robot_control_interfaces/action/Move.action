@@ -1,0 +1,12 @@
+# Goal
+string direction
+float32 duration
+float32 speed
+---
+# Result
+bool success
+float32 distance_traveled
+---
+# Feedback
+float32 time_remaining
+float32 progress

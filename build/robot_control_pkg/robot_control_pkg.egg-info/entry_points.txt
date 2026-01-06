@@ -1,0 +1,5 @@
+[console_scripts]
+llm_service_node = robot_control_pkg.llm_service_node:main
+movement_action_server = robot_control_pkg.movement_action_server:main
+teleop_node = robot_control_pkg.teleop_node:main
+

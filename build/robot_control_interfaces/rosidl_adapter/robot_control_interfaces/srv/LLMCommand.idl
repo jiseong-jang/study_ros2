@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from robot_control_interfaces/srv/LLMCommand.srv
+// generated code does not contain a copyright notice
+
+
+module robot_control_interfaces {
+  module srv {
+    struct LLMCommand_Request {
+      string user_input;
+    };
+    struct LLMCommand_Response {
+      string command;
+
+      string explanation;
+
+      boolean success;
+    };
+  };
+};

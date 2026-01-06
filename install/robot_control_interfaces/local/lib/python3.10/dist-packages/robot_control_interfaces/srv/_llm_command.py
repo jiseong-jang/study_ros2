@@ -1,0 +1,1 @@
+/home/jiseong/ros2project/build/robot_control_interfaces/rosidl_generator_py/robot_control_interfaces/srv/_llm_command.py

@@ -1,0 +1,5 @@
+string user_input
+---
+string command
+string explanation
+bool success

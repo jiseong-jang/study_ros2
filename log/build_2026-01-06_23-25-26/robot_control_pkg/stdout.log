@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing robot_control_pkg.egg-info/PKG-INFO
+writing dependency_links to robot_control_pkg.egg-info/dependency_links.txt
+writing entry points to robot_control_pkg.egg-info/entry_points.txt
+writing requirements to robot_control_pkg.egg-info/requires.txt
+writing top-level names to robot_control_pkg.egg-info/top_level.txt
+reading manifest file 'robot_control_pkg.egg-info/SOURCES.txt'
+writing manifest file 'robot_control_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jiseong/ros2project/install/robot_control_pkg/lib/python3.10/site-packages/robot-control-pkg.egg-link (link to .)
+Installing llm_service_node script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+Installing movement_action_server script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+Installing teleop_node script to /home/jiseong/ros2project/install/robot_control_pkg/lib/robot_control_pkg
+
+Installed /home/jiseong/ros2project/build/robot_control_pkg
+running symlink_data
